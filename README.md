@@ -17,7 +17,6 @@ This repository contains resources for analyzing and optimizing Zepto’s quick 
 ## 🧰 Tech Stack
 
 - **SQL**: MySQL for data wrangling, joins, and KPI generation  
-- **Power BI**: For dynamic dashboards and visual storytelling  
 - **Excel**: For data cleaning and preprocessing
 
 ---
